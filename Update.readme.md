@@ -9,6 +9,7 @@
 
 2. Project Architecture:
 
+    - Use typescript to make the code easier to maintain
     - Separate concerns by organizing files and modules appropriately.
     - Utilize encapsulation and composition for code reusability.
 

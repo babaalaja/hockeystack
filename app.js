@@ -22,7 +22,7 @@ mongoose
         require("./Domain");
 
         // worker setup
-        require("./worker-copy")();
+        require("./worker-modified")();
     });
 
 process.env.instance = "app";
